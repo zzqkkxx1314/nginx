@@ -1,0 +1,9 @@
+[testservers]
+ansible2
+[testservers:vars]
+server_name=ansible2
+user=root
+output=/root/test.txt
+server_name=ansible2
+port=2000
+
