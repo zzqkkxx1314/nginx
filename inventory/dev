@@ -1,0 +1,7 @@
+[nginx]
+k8s05
+[nginx:vars]
+server_name=k8s05
+server_name=ansible2
+port=80
+
